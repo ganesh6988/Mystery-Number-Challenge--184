@@ -1,0 +1,50 @@
+Project Document: Mystery Number Challenge 
+
+Tech Stack Used
+
+      Programming Language: C++
+      Libraries/Tools: Standard C++ libraries (iostream, cstdlib, ctime)
+      Development Environment: Local development using IDE (e.g., Visual Studio Code)
+      
+Project Details
+
+Overview:
+        The Mystery Number Challenge is a console-based number guessing game implemented in C++. It provides an interactive   experience where players attempt to guess a randomly chosen number within a specified range. The game offers features like multiple difficulty levels, limited attempts per game session, and visual feedback upon winning or losing.
+
+Features and Functionalities:
+
+Gameplay Mechanics:
+
+      Players input their guesses to identify the mystery number.
+      Hints are provided based on the proximity of their guesses to the correct number.
+      Players have a limited number of attempts per game session (customizable).
+
+Visual Feedback:
+
+      ASCII art is used to visually celebrate a win with sparkles.
+      A sad face ASCII art is displayed upon losing the game.
+
+User Interaction:
+
+      Menu-driven interface allows players to start a new game, view the results of the last 3 rounds, or exit the game.
+      Results of the last 3 rounds are stored and displayed upon request.
+
+
+Data Management:
+
+       Uses simple data structures (arrays and vectors) to manage game options and store game history.
+       Utilizes basic file handling (not detailed in current implementation) for potential future enhancements like saving       game statistics.
+
+Enhancements and Scalability:
+
+       Designed for easy scalability with potential future enhancements such as saving player statistics, multiplayer mode, or integrating with graphical user interface (GUI) frameworks.
+
+
+
+Conclusion
+The Mystery Number Challenge project demonstrates foundational skills in C++ programming, game logic implementation, and user interface design within a console environment. It aims to provide an engaging and interactive experience for players while showcasing the capabilities of basic programming constructs and standard C++ libraries.
+
+
+
+
+
